@@ -4,9 +4,6 @@
 
 ![landing page](img/landing.png "landing page")
 
-![presentacion](img/presentacion.png "presentacion")
-
-
 
 ### Plan de investigación
 ##### Objetivos
@@ -154,7 +151,9 @@ Mi producto mínimo viable contendrá lo siguiente:
 
 - Horario de los cursos
 
-- Observaciones del docente  
+- Observaciones del docente
+
+- Asistencia
 
 - Receptor de lectura instantánea
 
@@ -163,3 +162,15 @@ Mi producto mínimo viable contendrá lo siguiente:
 -	Gráficos del progreso individual semanal
 
 Este mínimo producto viable se realizó debido a que representa lo esencial y es de bajo costo realizarlo.
+
+## PROTOTIPADO EN PAPEL
+
+
+## PROTOTIPADO  EN MARVEL
+
+https://marvelapp.com/64127c1/screen/40086842
+
+![presentacion](img/presentacion.png "presentacion")
+
+
+0
