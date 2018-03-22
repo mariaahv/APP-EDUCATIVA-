@@ -1,7 +1,12 @@
-## APP EDUCATIVA
+## UNITED SCHOOL
 
+### United School tiene la misión de ayudar a que cada profesor y padre de familia  crea en un aula increible .
+
+![landing page](img/landing.png "landing page")
 
 ![presentacion](img/presentacion.png "presentacion")
+
+
 
 ### Plan de investigación
 ##### Objetivos
@@ -43,6 +48,21 @@ https://docs.google.com/forms/d/1Rj9vAGBSA86czBd6utzLJhDqw4eraFe2zP0hnnGjbJQ/edi
  ![Entrevistas](img/entrevista1.png "entrevista")
 
  ![Entrevistas](img/entrevista2.png "entrevista")
+
+ ##### STAKEHOLDERS
+ - Equipo de desarrollo de las diferentes áreas.
+ - Equipo completo de trabajo (marketing , diseñadores , investigadores (research) programadores , finanzas , etc )
+ - Colegios
+ - profesores
+ - Directores de Colegios
+ - Padres de familia
+ - Familias
+ - Estudiantes
+ - MINEDU
+
+
+ ##### BUSINESS MODEL CANVAS
+  ![BMC](img/bmc.png "BMC")
 
 ## SINTESIS E IDEACIÓN
 En esta etapa me enfoque en obtener los insights de los usuarios a través de la recopilación y análisis de información de nuestra investigación.
