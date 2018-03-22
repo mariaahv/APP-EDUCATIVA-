@@ -1,5 +1,8 @@
 ## APP EDUCATIVA
 
+
+![presentacion](img/presentacion.png "presentacion")
+
 ### Plan de investigación
 ##### Objetivos
 - Comprender y Conocer las deficiencias , bloqueantes de la comunicación entre padres de familia y maestros.
@@ -57,11 +60,8 @@ Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos
 
  ![mapa](img/mapa.JPG "MAPA")
 
- ![mapa](img/01.JPG "MAPA")
- ![mapa](img/02.JPG "MAPA")
- ![mapa](img/03.JPG "MAPA")
- ![mapa](img/04.JPG "MAPA")
- ![mapa](img/05.JPG "MAPA")
+ ![mapa](img/posits.png "MAPA")
+
 
  Luego de analizar todo la información , se obtuvo que las consultas más realizadas por lo padres de familia a los docentes fueron sobre :
 
