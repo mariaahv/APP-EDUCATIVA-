@@ -165,6 +165,8 @@ Este mínimo producto viable se realizó debido a que representa lo esencial y e
 
 ## PROTOTIPADO EN PAPEL
 
+![BMC](img/paper1.jpg "BMC")
+
 
 ## PROTOTIPADO  EN MARVEL
 
